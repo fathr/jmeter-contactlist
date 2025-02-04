@@ -1,0 +1,25 @@
+1738673419523,2013,POST Log In User,200,OK,USERS 1-1,text,true,,1257,277,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,2006,0,1005
+1738673420720,1824,POST Log In User,200,OK,USERS 1-2,text,true,,1249,277,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,1824,0,799
+1738673421576,1309,POST Add Contact,201,Created,USERS 1-1,text,true,,1063,854,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,1309,0,0
+1738673422548,588,POST Add Contact,201,Created,USERS 1-2,text,true,,1071,854,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,588,0,0
+1738673422888,573,GET Contact with id 67a20d0ee0f4720013abc466,200,OK,USERS 1-1,text,true,,1066,515,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0ee0f4720013abc466,573,0,0
+1738673423139,582,GET Contact with id 67a20d0fe0f4720013abc467,200,OK,USERS 1-2,text,true,,1054,515,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0fe0f4720013abc467,582,0,0
+1738673423470,598,PUT Update Contact,200,OK,USERS 1-1,text,true,,1062,938,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0ee0f4720013abc466,598,0,0
+1738673423723,598,PUT Update Contact,200,OK,USERS 1-2,text,true,,1062,938,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0fe0f4720013abc467,598,0,0
+1738673424071,617,PATCH Update Contact,200,OK,USERS 1-1,text,true,,1071,650,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0ee0f4720013abc466,617,0,0
+1738673421975,2818,POST Log In User,200,OK,USERS 1-3,text,true,,1245,277,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,2817,0,1844
+1738673423225,1614,POST Log In User,401,Unauthorized,USERS 1-4,,false,Response was null,673,277,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,1614,0,665
+1738673424323,609,PATCH Update Contact,200,OK,USERS 1-2,text,true,,1071,650,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0fe0f4720013abc467,609,0,0
+1738673424691,596,DELETE Contact,200,OK,USERS 1-1,text,true,,760,653,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0ee0f4720013abc466,596,0,0
+1738673424796,596,POST Add Contact,201,Created,USERS 1-3,text,true,,1067,854,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,596,0,0
+1738673424933,592,DELETE Contact,200,OK,USERS 1-2,text,true,,752,653,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d0fe0f4720013abc467,592,0,0
+1738673425395,583,GET Contact with id 67a20d11e0f4720013abc468,200,OK,USERS 1-3,text,true,,1054,515,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d11e0f4720013abc468,583,0,0
+1738673425982,657,PUT Update Contact,200,OK,USERS 1-3,text,true,,1062,938,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d11e0f4720013abc468,657,0,0
+1738673426641,672,PATCH Update Contact,200,OK,USERS 1-3,text,true,,1063,650,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d11e0f4720013abc468,672,0,0
+1738673424467,3116,POST Log In User,200,OK,USERS 1-5,text,true,,1245,277,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,3116,0,2172
+1738673427316,578,DELETE Contact,200,OK,USERS 1-3,text,true,,764,653,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d11e0f4720013abc468,578,0,0
+1738673427586,581,POST Add Contact,201,Created,USERS 1-5,text,true,,1071,854,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,581,0,0
+1738673428169,620,GET Contact with id 67a20d14ad458a00134b28fd,200,OK,USERS 1-5,text,true,,1062,515,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d14ad458a00134b28fd,620,0,0
+1738673428792,613,PUT Update Contact,200,OK,USERS 1-5,text,true,,1070,938,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d14ad458a00134b28fd,613,0,0
+1738673429407,617,PATCH Update Contact,200,OK,USERS 1-5,text,true,,1067,650,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d14ad458a00134b28fd,616,0,0
+1738673430030,603,DELETE Contact,200,OK,USERS 1-5,text,true,,760,653,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a20d14ad458a00134b28fd,603,0,0
